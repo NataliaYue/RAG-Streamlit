@@ -72,7 +72,7 @@ El índice que se construye en la fase 1 es el mismo en el que se busca en la fa
 Requiere Python 3.10 o superior y una API key de [Groq](https://console.groq.com).
 
 ```bash
-git clone <url-de-tu-repo>
+git clone https://github.com/NataliaYue/RAG-Streamlit.git
 cd <carpeta-del-repo>
 
 python -m venv .venv
