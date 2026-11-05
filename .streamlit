@@ -1,0 +1,9 @@
+[theme]
+primaryColor = "#6C63FF"          # Color morado moderno para botones y acentos
+backgroundColor = "#F8F9FA"       # Color de fondo general (gris muy claro)
+secondaryBackgroundColor = "#FFFFFF" # Color de fondo del panel lateral
+textColor = "#1E1E1E"             # Color del texto principal
+font = "sans serif"               # Fuente limpia y moderna
+
+[server]
+enableCORS = false

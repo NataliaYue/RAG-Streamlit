@@ -1,0 +1,20 @@
+# Secretos: nunca subir la API key
+.env
+
+# Índice generado al indexar manuales
+data/index/
+
+# Entorno virtual y cachés de Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Manuales en PDF (pueden tener copyright o ser privados)
+*.pdf
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
